@@ -2,7 +2,7 @@
 --
 -- Date: December 1, 2012
 --
--- Version: 0.1
+-- Version: 0.2
 --
 -- File name: GGScoreoid.lua
 --
